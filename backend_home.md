@@ -1,5 +1,5 @@
 ---
-permalink: /back.html
+permalink: /home.html
 ---
 
 # Poco Studios Backend
