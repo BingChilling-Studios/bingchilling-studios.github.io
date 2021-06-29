@@ -1,5 +1,5 @@
 ---
-permalink: /proj.html
+permalink: /builds.html
 ---
 
 # Central Build Repository
