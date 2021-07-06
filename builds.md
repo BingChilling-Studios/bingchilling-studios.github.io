@@ -10,7 +10,7 @@ permalink: /builds.html
 
 [CatOS](https://github.com/Poco-Studios/CatOS/releases)
 
-[GNU JSIM (Zoom to 67%)](https://av306.github.io/GNU-JSIM)
+[GNU JSIM PRODUCTION (Zoom to 67%)](https://av306.github.io/PaintApp)
 
 [MineCLI by chamburr (Build not provided)](https://github.com/chamburr/minecli/releases/tag/v0.1.2)
 
